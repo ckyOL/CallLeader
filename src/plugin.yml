@@ -1,0 +1,30 @@
+name: CallLeader Plugin
+main: moe.ckyol.callleader.main.PluginMain
+version: 0.0.1
+commands:
+  call:
+    description: 応援の設定
+    usage: /<command>　
+
+  ph:
+    description: PPPH
+    usage: /<command> [number]
+
+  kh:
+    description: GT 警報
+    usage: /<command>
+
+  fu:
+    description: ふふ
+    usage: /<command>
+
+  fw:
+    description: ふわふわ
+    usage: /<command> [number]
+
+  hi:
+    description: はい
+    usage: /<command> [number]
+
+
+
